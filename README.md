@@ -2,7 +2,7 @@
 
 <br />
 
-<a target="_blank" href="https://raw.githubusercontent.com/eveningwater/eveningwater/main/qr_code.jng">
+<a target="_blank" href="https://raw.githubusercontent.com/eveningwater/eveningwater/main/qr_code.jpg">
   <img align="left" title="微信号-eveningwater" alt="eveningwater" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 <a href="#854806732">

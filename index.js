@@ -1,3 +1,7 @@
+/**
+* the more web project can see:https://eveningwater.github.io/my-web-projects/ 
+*
+ */
 // once everything is loaded, we run our Three.js stuff.
 $(function () {
     var stats = initStats();
